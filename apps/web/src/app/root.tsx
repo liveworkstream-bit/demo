@@ -11,10 +11,7 @@ import {
 
 import { useButton } from '@react-aria/button';
 import {
-  type CSSProperties,
   Component,
-  type FC,
-  type ReactNode,
   useCallback,
   useEffect,
   useRef,
